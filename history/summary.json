@@ -1,42 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Meu blog",
+    "url": "https://",
+    "slug": "meu-blog",
     "status": "down",
     "uptime": "100.00",
     "time": 0
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "down",
+    "name": "Meu site",
+    "url": "https://enieber.com.br",
+    "slug": "meu-site",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
+    "time": 324
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "down",
+    "name": "Libreflix",
+    "url": "https://libreflix.org",
+    "slug": "libreflix",
+    "status": "up",
     "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "down",
-    "uptime": "100.00",
-    "time": 0
+    "time": 714
   }
 ]
