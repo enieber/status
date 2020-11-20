@@ -5,7 +5,7 @@ repo: status # Your Github repository name
 # Add your sites here
 sites:
   - name: Meu blog
-    url: https://
+    url: https://olha-oque-fiz.vercel.app/
   - name: Meu site
     url: https://enieber.com.br
   - name: Libreflix
