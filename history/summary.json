@@ -4,8 +4,8 @@
     "url": "https://olha-oque-fiz.vercel.app/",
     "slug": "meu-blog",
     "status": "up",
-    "uptime": "98.92%",
-    "time": 222
+    "uptime": "99.09%",
+    "time": 223
   },
   {
     "name": "Meu site",
@@ -13,7 +13,7 @@
     "slug": "meu-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 294
+    "time": 287
   },
   {
     "name": "Libreflix",
@@ -21,6 +21,6 @@
     "slug": "libreflix",
     "status": "up",
     "uptime": "100.00%",
-    "time": 608
+    "time": 601
   }
 ]
