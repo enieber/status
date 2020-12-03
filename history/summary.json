@@ -4,8 +4,16 @@
     "url": "https://olha-oque-fiz.vercel.app/",
     "slug": "meu-blog",
     "status": "up",
-    "uptime": "99.50%",
-    "time": 202
+    "uptime": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
+    "time": 230,
+    "timeDay": 234,
+    "timeWeek": 175,
+    "timeMonth": 230,
+    "timeYear": 230
   },
   {
     "name": "Meu site",
@@ -13,7 +21,15 @@
     "slug": "meu-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 284
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 280,
+    "timeDay": 207,
+    "timeWeek": 258,
+    "timeMonth": 280,
+    "timeYear": 280
   },
   {
     "name": "Libreflix",
@@ -21,6 +37,14 @@
     "slug": "libreflix",
     "status": "up",
     "uptime": "100.00%",
-    "time": 643
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 638,
+    "timeDay": 552,
+    "timeWeek": 681,
+    "timeMonth": 638,
+    "timeYear": 638
   }
 ]
