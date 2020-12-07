@@ -2,22 +2,28 @@
   {
     "name": "Meu blog",
     "url": "https://olha-oque-fiz.vercel.app/",
+    "icon": "https://favicons.githubusercontent.com/olha-oque-fiz.vercel.app",
     "slug": "meu-blog",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
-    "time": 227,
-    "timeDay": 182,
-    "timeWeek": 195,
-    "timeMonth": 227,
-    "timeYear": 227
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 223,
+    "timeDay": 160,
+    "timeWeek": 190,
+    "timeMonth": 223,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2020-11-24": 19,
+      "2020-11-23": 62
+    }
   },
   {
     "name": "Meu site",
     "url": "https://enieber.com.br",
+    "icon": "https://favicons.githubusercontent.com/enieber.com.br",
     "slug": "meu-site",
     "status": "up",
     "uptime": "100.00%",
@@ -26,14 +32,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 234,
-    "timeWeek": 265,
+    "timeDay": 285,
+    "timeWeek": 278,
     "timeMonth": 279,
-    "timeYear": 279
+    "timeYear": 279,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Libreflix",
     "url": "https://libreflix.org",
+    "icon": "https://favicons.githubusercontent.com/libreflix.org",
     "slug": "libreflix",
     "status": "up",
     "uptime": "100.00%",
@@ -41,10 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 629,
-    "timeDay": 723,
-    "timeWeek": 629,
-    "timeMonth": 629,
-    "timeYear": 629
+    "time": 622,
+    "timeDay": 466,
+    "timeWeek": 622,
+    "timeMonth": 622,
+    "timeYear": 622,
+    "dailyMinutesDown": {}
   }
 ]
