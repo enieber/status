@@ -43,9 +43,9 @@
     "url": "https://libreflix.org",
     "icon": "https://favicons.githubusercontent.com/libreflix.org",
     "slug": "libreflix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,6 +54,8 @@
     "timeWeek": 631,
     "timeMonth": 624,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-14": 0
+    }
   }
 ]
